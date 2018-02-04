@@ -3,7 +3,7 @@ You should be excited instead of being worried. If you aim to have a learning ex
 Hackathons are 24+ hour tech-fests. They’re places where you meet like-minded people, learn new things, and work with cool technology and most important of them all have fun. They could sound pretty intimidating but you don’t have to be some sort of genius or a coding pro to take part in it.
 
 ## Do hackathon have something to do with "hack"?
-Many people before you have the same misconception. The word “hack" confuses people and they think hackathons are about “hacking” into something. No, sir. Hacking is basically building something. It could be anything.   
+Many people before you have the same misconception. The word “hack" confuses people and they think hackathons are about “hacking” into something.A big NO. Hacking is basically building something. It could be anything.   
  
  ```In computing, a hacker is any skilled computer expert that uses their technical knowledge to overcome a problem. - Wikipedia ```
 
@@ -44,7 +44,7 @@ Best thing you don't have to pay for accommodation and as a participant, you can
 ## Refer this FAQ:
 
 ### What if I don’t know how to code?
-No problem! Complete beginners come at every hackathon. If you’ve never coded before, it’s a great opportunity to spend and start learning. It's like you see people coding everywhere and some develop interest in coding after attending hackathon. You will get to learn how people make themselves comfortable with new skills. You’ll be surrounded by experienced coders, willing to help you out. Coding might see complex, but actually it’s pretty easy to get started. 
+No problem! Complete beginners come at every hackathon. If you’ve never coded before, it’s a great opportunity to spend and start learning. It's like you see people coding everywhere and some develop interest in coding after attending hackathon. You will get to learn how people make themselves comfortable with new skills. You’ll be surrounded by experienced coders, willing to help you out. Coding might seem complex, but actually it’s pretty easy to get started. 
 
 ### Will I annoy people if I ask them questions?
 You’re not going to annoy anybody! These events are wholly centred around learning and having fun.
